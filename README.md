@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yumeishi
 - 👀 I’m interested in AI + ML, product and web development, and more!
-- 🌱 I’m currently learning python, HTML + CSS, and JavaScript
+- 🌱 I’m currently learning python and JavaScript, with a focus on AI/ML backend engineering
 - 💞️ I’m looking to collaborate on projects, apps, and web dev!
 - 📫 Reach me at yumeiishii@gmail.com :)
 
